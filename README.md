@@ -83,6 +83,7 @@ Sometimes, a simple idea can become a fun and useful tool.
 ---
 
 ## Make EXE File
-'''
+
+```
 pyinstaller --noconsole --onefile --name KeyCast --icon code.ico key_overlay.py
-'''
+```
